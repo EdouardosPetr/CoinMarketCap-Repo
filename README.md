@@ -1,3 +1,0 @@
-# Coinmarketcap-repo
-
-Testing 
