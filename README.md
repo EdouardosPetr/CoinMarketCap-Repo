@@ -32,9 +32,4 @@ Sort by rank, daily percentage change, or daily volume. Positive and negative va
 
 Explore what the price of cryptocurrencies will be if the global market cap hits certain levels (such as world stock market levels)
 
-## Contribute
-To contribute to this project, please fork and submit a pull request.
-
-© Edouardos
-
 ### Thanks for reading 
